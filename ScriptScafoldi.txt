@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=DESKTOP-3L1AMC0\SQLEXPRESS;Database=DBEcommerce;Trusted_Connection=True;TrustServerCertificate=true;MultipleActiveResultSets=true" Microsoft.EntityFrameworkCore.SqlServer
